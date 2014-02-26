@@ -1,1 +1,1 @@
-javascript:(function(s) {s.type = "text/javascript";s.src = "//rawgithub.com/something.js";document.head.appendChild(s);})(document.createElement("script"));
+javascript:(function(s) {s.type = "text/javascript";s.src = "//rawgithub.com/spencerschack/Fyoosha/master/bootstrap.js";document.head.appendChild(s);})(document.createElement("script"));
